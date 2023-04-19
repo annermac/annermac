@@ -8,3 +8,7 @@
   <li>🌳I like active recreation and read books</li>  
 </ul>
 <h3 align="left">Languages and tools</h3>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  
+</div>
