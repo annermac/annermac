@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm Anna
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Learning Java and IT specialist from Russia</h3>
+<h3 align="center">I'm studying Java and IT specialist from Russia</h3>
 <h3 align="left">About me</h3>
 <ul>
   <li>😊 I'm 21</li>
