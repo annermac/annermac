@@ -1,18 +1,10 @@
 <h1 align="center">Hi! I'm Anna
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<!--<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>-->
-
-<!--
-**AnnaVBez/AnnaVBez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">Learning Java and IT specialist from Russia</h3>
+<h3 align="left">About me</h3>
+<ul>
+  <li>😊 I'm 21</li>
+  <li>🎓 I study at university RUDN (Peoples' Friendship University of Russia)</li>
+  <li>🌳I like active recreation and read books</li>  
+</ul>
+<h3 align="left">Languages and tools</h3>
