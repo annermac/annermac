@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Anna 😜</h1>
-<h3 align="center">I'm studying Java and IT specialist from Russia</h3>
+<h3 align="center">I'm Java Developer and IT specialist from Russia</h3>
 <h3 align="left">About me</h3>
 <ul>
   <li>😊 I'm 22</li>
