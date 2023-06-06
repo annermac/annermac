@@ -2,10 +2,10 @@
 <h3 align="center">I'm studying Java and IT specialist from Russia</h3>
 <h3 align="left">About me</h3>
 <ul>
-  <li>😊 I'm 22</li>
-  <li>🎓 I study at university RUDN (Peoples' Friendship University of Russia)</li>
-  <li>🌳 I like active recreation, to travel and read books</li> 
-  <li>💻 I love programming and kittens 🐱</li> 
+  <li style="list-style-type: none;">😊 I'm 22</li>
+  <li style="list-style-type: none;">🎓 I study at university RUDN (Peoples' Friendship University of Russia)</li>
+  <li style="list-style-type: none;">🌳 I like active recreation, to travel and read books</li> 
+  <li style="list-style-type: none;">💻 I love programming and kittens 🐱</li> 
 </ul>
 <h3 align="left">Languages and tools</h3>
 <div>
