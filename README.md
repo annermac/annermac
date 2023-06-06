@@ -1,9 +1,8 @@
-<h1 align="center">Hi! I'm Anna
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hi! I'm Anna 😜</h1>
 <h3 align="center">I'm studying Java and IT specialist from Russia</h3>
 <h3 align="left">About me</h3>
 <ul>
-  <li>😊 I'm 21</li>
+  <li>😊 I'm 22</li>
   <li>🎓 I study at university RUDN (Peoples' Friendship University of Russia)</li>
   <li>🌳I like active recreation and read books</li>  
 </ul>
