@@ -4,7 +4,8 @@
 <ul>
   <li>😊 I'm 22</li>
   <li>🎓 I study at university RUDN (Peoples' Friendship University of Russia)</li>
-  <li>🌳I like active recreation and read books</li>  
+  <li>🌳 I like active recreation, to travel and read books</li> 
+  <li>💻 I love programming and kittens 🐱</li> 
 </ul>
 <h3 align="left">Languages and tools</h3>
 <div>
