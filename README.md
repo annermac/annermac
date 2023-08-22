@@ -3,6 +3,7 @@
 <h3 align="left">About me</h3>
 <ul>
   <li>😊 I'm 22</li>
+  <li>👩🏻‍💻 I'm looking for a job </li>
   <li>🎓 I study at university RUDN (Peoples' Friendship University of Russia)</li>
   <li>🌳 I like active recreation, to travel and read books</li> 
   <li>💻 I love programming and kittens 🐱</li> 
