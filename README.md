@@ -1,9 +1,9 @@
 <h1 align="center">Hi! I'm Anna 😜</h1>
-<h3 align="center">I'm Java Developer and IT specialist from Russia</h3>
+<h3 align="center">I'm QA Engineer from Russia</h3>
 <h3 align="left">About me</h3>
 <ul>
   <li>😊 I'm 22</li>
-  <li>👩🏻‍💻 I'm looking for a job </li>
+  <li>👩🏻‍💻 I work for an IT company </li>
   <li>🎓 I study at university RUDN (Peoples' Friendship University of Russia)</li>
   <li>🌳 I like active recreation, to travel and read books</li> 
   <li>💻 I love programming and kittens 🐱</li> 
